@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    
+}
+
+.Image{
+    height: 400px;
+    width: 300px;
+    flex-direction: left;
+}
+
+h1{
+    font-size: 50px;
+    color: black;
+}
+
+.aboutus{
+    font-size: 30px;
+    margin-right: 50%;
+}
+
+p{
+    font-size: 20px;
+    color: rgb(108, 98, 98);
+}
+.page{
+    margin-left: 20%;
+}
+
+button{
+    border-radius: 20px;
+    background-color: green;
+    height: 35px;
+    width: 105px;
+    border: none;
+    color: white;
+
+}
+button:hover{
+    background-color: lightgreen;
+}
+
+
+
